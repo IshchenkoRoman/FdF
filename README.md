@@ -57,5 +57,8 @@ If you execute your program fdf on this file, we should see something like this:
 $>./fdf 42.fdf
 ```
 
-[[https://github.com/IshchenkoRoman/FdF/blob/master/Screen%20Shot%202017-11-30%20at%209.05.15%20PM.png|alt=ortproj]]
-[[https://github.com/IshchenkoRoman/FdF/blob/master/Screen%20Shot%202017-11-30%20at%209.05.35%20PM.png|alt=proj]]
+<img width="2198" alt="screen shot 2017-11-30 at 9 05 15 pm" src="https://user-images.githubusercontent.com/30857998/34018848-cf4870f2-e123-11e7-9c9d-384b5e128236.png">
+<img width="2187" alt="screen shot 2017-11-30 at 9 05 35 pm" src="https://user-images.githubusercontent.com/30857998/34018926-33a27980-e124-11e7-9330-87c7515a1de6.png">
+<img width="2189" alt="screen shot 2017-11-30 at 9 05 54 pm" src="https://user-images.githubusercontent.com/30857998/34018930-37056c40-e124-11e7-873f-4f736f8eaae5.png">
+<img width="2191" alt="screen shot 2017-11-30 at 9 06 17 pm" src="https://user-images.githubusercontent.com/30857998/34018932-381e3f94-e124-11e7-916a-2e8cd4cf30f6.png">
+
